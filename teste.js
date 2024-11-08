@@ -1,9 +1,6 @@
-let num = 10;
-
 function hello() {
+  document.writeln("Hello, World");
   
- alert("hello, world"); 
-
 }
 
 
